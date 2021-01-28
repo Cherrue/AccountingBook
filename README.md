@@ -11,3 +11,13 @@
 ### 자료 출력
 
 ### 미수금 업체 관리
+
+### GUIDE
+
+```javascript
+yarn add material-table @material-ui/core
+```
+
+react-table vs material-table과 고민했지만,<br/>
+react-table의 문서가 너무너무 불친절해서 포기했습니다!<br/>
+예쁘고 편한 material-table을 씁시다!
