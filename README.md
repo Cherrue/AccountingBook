@@ -21,3 +21,11 @@ yarn add material-table @material-ui/core
 react-table vs material-table과 고민했지만,<br/>
 react-table의 문서가 너무너무 불친절해서 포기했습니다!<br/>
 예쁘고 편한 material-table을 씁시다!
+
+```javascript
+yarn add @bit/nexxtway.react-rainbow.calendar
+yarn add primeflex
+yarn add primeicons
+```
+
+https://www.primefaces.org/primereact/showcase/#/calendar
